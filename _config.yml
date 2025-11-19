@@ -6,3 +6,22 @@ description: 个人博客 / 技术笔记 / 生活随笔
 show_downloads: false
 github:
   is_project_page: false
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+# 导航栏菜单（About 会自动出现，你还可以继续加）
+nav:
+  - title: About
+    url: /about/
+  - title: Archive
+    url: /archive/
+  - title: GitHub
+    url: https://github.com/j-h-luo
+
+# 可选：让你名字显示在左上角
+author: JiaHui Luo   # 改成你想显示的名字，比如 Luo JiaHui
