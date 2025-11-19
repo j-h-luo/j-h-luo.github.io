@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 你好，世界！  
+# Theme
 这是我的个人博客，基于 GitHub Pages + Cayman 主题。
 
 最近在折腾：
